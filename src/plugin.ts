@@ -6,7 +6,7 @@ export = (
   const { types: t } = babel;
 
   return {
-    name: 'babel-plugin-observer-displayname',
+    name: 'babel-plugin-react-observer-displayname',
     visitor: {
       CallExpression(path) {
         if (

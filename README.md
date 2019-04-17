@@ -1,4 +1,4 @@
-# babel-plugin-react-createcontext-displayname
+# babel-plugin-react-observer-displayname
 
 A simple babel plugin that adds `displayName` values to `observer` calls.
 
